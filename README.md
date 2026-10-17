@@ -14,7 +14,7 @@ Temas dictados: **ninguno todavía**.
 
 ```
 DOC-AI/
-├── README.md, CLAUDE.md              # este archivo y la memoria de Claude
+├── README.md, AGENTS.md              # este archivo y la memoria de Codex
 ├── .gitignore                        # qué NO versiona Git
 └── temario/                          # material de cada clase ya dictada
     └── apuntes/                      # apuntes tomados durante las clases, un .md por tema

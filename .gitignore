@@ -1,0 +1,6 @@
+.env
+node_modules/
+
+# Datos reales: nunca se versionan
+pacientes/
+datos-reales/
